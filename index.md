@@ -1,9 +1,9 @@
 ---
-title: Filipe's Portfolio
+title: Filipe Mendes Mariz
 layout: default
 ---
 
-Welcome to Filipe's Portfolio
+Filipe Mendes Mariz
 
 [Test]({% post_url 2024-08-28-blogpost %})
 
